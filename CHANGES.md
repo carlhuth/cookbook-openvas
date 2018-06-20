@@ -1,3 +1,7 @@
+Changes for OpenVAS cookbook version 1.0.2
+===========================================
+* removing self dependency of openvas in the metadata.rb to fix Berks complaint
+
 Changes for OpenVAS cookbook version 1.0.1
 ===========================================
 * Install openvas-check-setup from package, instead of from cookbook file.
